@@ -1,6 +1,6 @@
 # NLP-of-StockTwits-data-for-predicting-stocks
 
-The complete labelled dataset can be downloaded from [here](https://unisyd-my.sharepoint.com/:f:/g/personal/mukul_jaggi_sydney_edu_au/EjOFnuPvH3FNqu-GkFlFgZoBwKA941BMqBsS0mFaKALRKw?e=djzRxN).
+The complete labelled dataset can be downloaded from [here](https://unisyd-my.sharepoint.com/:f:/g/personal/mukul_jaggi_sydney_edu_au/EjOFnuPvH3FNqu-GkFlFgZoBwKA941BMqBsS0mFaKALRKw).
 
 Note: The link contains labelled dataset of different combinations which are described as following
 1. Percentage_change_labelled: This folder contains labelled dataset for 25 individual companies with percentage change method mentioned in the paper with same day and previous                                day stock price change.
